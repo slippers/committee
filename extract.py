@@ -64,7 +64,6 @@ class Committee():
             return leg
         raise Exception('member not found:{}'.format(member['name']))
 
-
     def report(self):
         committees = []
         for com in self.committees:
@@ -80,8 +79,6 @@ class Committee():
                 continue
             for mem in self.membership[com['thomas_id']]:
                 leg = self.lookup_by_member(mem)
-
-                # extract the bio, id, name subsets from leg
                 memx[mem['name']] = dictsubset(leg, ('bio', 'id', 'name'))
 
             comx['members'] = memx
@@ -97,9 +94,9 @@ if __name__ == "__main__":
     committee = Committee()
     comm = committee.report()
 
-    pp = pprint.PrettyPrinter(indent=4)
-    pp.pprint(comm)
+    #pp = pprint.PrettyPrinter(indent=4)
+    #pp.pprint(comm)
+    print(len(comm))
 
-
-    site = make_site(env_globals={'greeting':'Hello world!'})
+    site = make_site(env_globals={'comm':comm,})
     site.render()
