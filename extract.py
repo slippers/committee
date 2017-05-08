@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #coding: utf-8
-__author__ = 'stsmith'
+__author__ = 'kirk erickson'
 
 
 """
@@ -22,54 +22,83 @@ except ImportError:
 
 DATA = './'
 
+def dictsubset(dictionary, subset=()):
+    return {k:v for k, v in dictionary.items() if k in subset}
+
+def dictskip(dictionary, subset=()):
+    return {k:v for k, v in dictionary.items() if k not in subset}
+
+
 class Committee():
     def __init__(self):
         self.database_load()
 
-    def yaml_load(self, y):
-        res = yaml.load(y, Loader=Loader)
-        if res is None: res = []  # make it an empty iterable
-        return res
-
     def database_access(self, filename):
         fname_fullpath = os.path.join(DATA, filename)
-        if os.path.exists(fname_fullpath):
-            res = open(fname_fullpath,'r')
-        else:
-            warnings.warn('File {} doesn\'t exist; clone data from {} and copy it to {} .'.format(filename,self.args.repo,self.data_path))
-            res = self.Emptysource()
-        return res
+        if not os.path.exists(fname_fullpath):
+            raise FileNotFoundError(
+                'File {} doesn\'t exist;'.format(filename)
+            )
+
+        with open(fname_fullpath, 'r') as f:
+            doc = yaml.safe_load(f)
+            if doc is None: doc = []  # make it an empty iterable
+            return doc
 
     def database_load(self):
-        try:
-            with self.database_access('legislators-current.yaml') as y:
-                self.legislators = self.yaml_load(y)
-            with self.database_access('legislators-district-offices.yaml') as y:
-                self.offices = self.yaml_load(y)
-            with self.database_access('committees-current.yaml') as y:
-                self.committees = self.yaml_load(y)
-            with self.database_access('committee-membership-current.yaml') as y:
-                self.membership = self.yaml_load(y)
-        except (BaseException,IOError) as e:
-            print(e)
+        self.legislators = self.database_access('legislators-current.yaml')
+        self.offices = self.database_access('legislators-district-offices.yaml')
+        self.committees = self.database_access('committees-current.yaml')
+        self.membership = self.database_access('committee-membership-current.yaml')
+
+    def lookup_by_member(self, member):
+        #print(mem['name'])
+        for leg in ( leg for leg in self.legislators if \
+                    (leg['name']['official_full'] == member['name']) \
+                    or ('bioguide' in leg['id'] \
+                        and 'bioguide' in member \
+                        and leg['id']['bioguide'] == member['bioguide']) \
+                    or ('thomas' in leg['id'] \
+                        and 'thomas' in member \
+                        and leg['id']['thomas'] == member['thomas']) ):
+            return leg
+        raise Exception('member not found:{}'.format(member['name']))
 
 
-#def data():
-#    with open('committees-current.yaml', 'r') as f:
-#        doc = yaml.safe_load(f)
-#        f.close()
-#        #print(doc)
-#        pp = pprint.PrettyPrinter(indent=4)
-#        pp.pprint(doc)
-#
-#        for x in doc:
-#            print(x['name'])
-#            print(x[''])
-#
+    def report(self):
+        committees = []
+        for com in self.committees:
+            #print(com['name'])
+
+            comx = {}
+            comx['committee'] = dictskip(com, ('subcommittees'))
+
+            memx = {}
+
+            if not com['thomas_id'] in self.membership:
+                print('members not found in:%s', com['thomas_id'])
+                continue
+            for mem in self.membership[com['thomas_id']]:
+                leg = self.lookup_by_member(mem)
+
+                # extract the bio, id, name subsets from leg
+                memx[mem['name']] = dictsubset(leg, ('bio', 'id', 'name'))
+
+            comx['members'] = memx
+
+            committees.append(comx)
+
+        return committees
+
+
 
 if __name__ == "__main__":
 
     committee = Committee()
+    comm = committee.report()
+
+    pp = pprint.PrettyPrinter(indent=4)
+    pp.pprint(comm)
 
 
     site = make_site(env_globals={'greeting':'Hello world!'})
