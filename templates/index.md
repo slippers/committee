@@ -15,7 +15,7 @@
 
 | state | type | party |
 |:----- |:---- |:----- |
-| {{ member['term']['state'] }} | {{ member['term']['party'] }} | {{ member['term']['type'] }} |
+| {{ member['term']['state'] }} | {{ member['term']['type'] }} | {{ member['term']['party'] }} |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
