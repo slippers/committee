@@ -56,6 +56,18 @@ class Committee():
         self.committees = self.database_access('committees-current.yaml')
         self.membership = self.database_access('committee-membership-current.yaml')
 
+    def lookup_office(self, member):
+        for off in ( off for off in self.offices \
+                    if ('bioguide' in off['id'] \
+                        and 'bioguide' in member \
+                        and off['id']['bioguide'] == member['bioguide']) \
+                    or ('thomas' in off['id'] \
+                        and 'thomas' in member \
+                        and off['id']['thomas'] == member['thomas'])
+                   ):
+            return off
+        warnings.warn('member not found:{}'.format(member['name']))
+
     def lookup_by_member(self, member):
         #print(mem['name'])
         for leg in ( leg for leg in self.legislators if \
@@ -84,9 +96,20 @@ class Committee():
                 continue
             for mem in self.membership[com['thomas_id']]:
                 leg = self.lookup_by_member(mem)
-                memx[mem['name']] = dictsubset(leg, ('bio', 'id', 'name'))
 
-                # add the office data
+                member = dictsubset(leg, ('bio', 'id', 'name'))
+
+                # add most recent term
+                member['term'] = leg['terms'][-1]
+
+                # add office to member
+                offices = self.lookup_office(mem)
+                if offices:
+                    member['offices'] = offices['offices']
+
+                # add the member
+                memx[mem['name']] = member
+
 
             comx['members'] = memx
 
@@ -110,15 +133,19 @@ if __name__ == "__main__":
     else:
         comm = pickle.load( open( report, "rb" ) )
 
-    print('committes:%s', len(comm))
-    pp = pprint.PrettyPrinter(indent=4)
-    pp.pprint(comm[0])
+    #print('committes:%s', len(comm))
+    #pp = pprint.PrettyPrinter(indent=4)
+    #pp.pprint(comm[0])
 
     site = make_site(env_globals={'comm':comm,})
     site.render()
 
     # https://pythonhosted.org/Markdown/reference.html#the-basics
-    markdown.markdownFromFile(input='index.md_', output='index.html')
+    markdown.markdownFromFile(
+        input='index.md',
+        output='index.html',
+        extensions=['markdown.extensions.tables']
+    )
 
 
 
