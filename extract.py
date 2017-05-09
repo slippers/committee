@@ -135,8 +135,8 @@ if __name__ == "__main__":
         comm = pickle.load( open( report, "rb" ) )
 
     #print('committes:%s', len(comm))
-    #pp = pprint.PrettyPrinter(indent=4)
-    #pp.pprint(comm[0])
+    pp = pprint.PrettyPrinter(indent=4)
+    pp.pprint(comm[0])
 
     # process data into template
     site = make_site(env_globals={'comm':comm,})

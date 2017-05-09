@@ -20,7 +20,7 @@
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
 {%- for f in c['members'][m]['offices'] %}
-| {{ f['phone'] }} | {{ f['address'] }} | {{ f['city'] }} | {{ f['state'] }} | {{ f['zip'] }} |
+| {{ f['phone'] }} | {{ f['address'] }} {{ f['building'] }} {{ f['suite'] }} | {{ f['city'] }} | {{ f['state'] }} | {{ f['zip'] }} |
 {%- endfor %}
 
 {% endfor %}
