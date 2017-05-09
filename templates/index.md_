@@ -1,0 +1,10 @@
+<!-- templates/index.html -->
+{% for c in comm %}
+### {{ c['committee']['name'] }}
+
+{{ c['committee']['jurisdiction'] }} 
+
+    {% for m in c['members'] %}
+* {{ c['members'][m]['name']['official_full'] }}
+    {% endfor %}
+{% endfor %}

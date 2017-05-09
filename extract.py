@@ -11,6 +11,9 @@ __author__ = 'kirk erickson'
 import os, sys, time, warnings, fnmatch, contextlib
 import yaml
 import pprint
+import markdown
+import markupsafe
+import pickle
 from staticjinja import make_site
 try:
     from yaml import CLoader as Loader
@@ -22,8 +25,10 @@ except ImportError:
 
 DATA = './'
 
+
 def dictsubset(dictionary, subset=()):
     return {k:v for k, v in dictionary.items() if k in subset}
+
 
 def dictskip(dictionary, subset=()):
     return {k:v for k, v in dictionary.items() if k not in subset}
@@ -81,6 +86,8 @@ class Committee():
                 leg = self.lookup_by_member(mem)
                 memx[mem['name']] = dictsubset(leg, ('bio', 'id', 'name'))
 
+                # add the office data
+
             comx['members'] = memx
 
             committees.append(comx)
@@ -91,12 +98,28 @@ class Committee():
 
 if __name__ == "__main__":
 
-    committee = Committee()
-    comm = committee.report()
+    report = 'report.txt'
 
-    #pp = pprint.PrettyPrinter(indent=4)
-    #pp.pprint(comm)
-    print(len(comm))
+    if not os.path.exists(report):
+        committee = Committee()
+        comm = committee.report()
+
+        with open(report, 'wb') as fp:
+            pickle.dump(comm, fp)
+
+    else:
+        comm = pickle.load( open( report, "rb" ) )
+
+    print('committes:%s', len(comm))
+    pp = pprint.PrettyPrinter(indent=4)
+    pp.pprint(comm[0])
 
     site = make_site(env_globals={'comm':comm,})
     site.render()
+
+    # https://pythonhosted.org/Markdown/reference.html#the-basics
+    markdown.markdownFromFile(input='index.md_', output='index.html')
+
+
+
+
