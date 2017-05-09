@@ -121,7 +121,8 @@ class Committee():
 
 if __name__ == "__main__":
 
-    report = 'report.txt'
+    # save generated data
+    report = 'report.pickle'
 
     if not os.path.exists(report):
         committee = Committee()
@@ -137,9 +138,11 @@ if __name__ == "__main__":
     #pp = pprint.PrettyPrinter(indent=4)
     #pp.pprint(comm[0])
 
+    # process data into template
     site = make_site(env_globals={'comm':comm,})
     site.render()
 
+    # convert template markdown into html
     # https://pythonhosted.org/Markdown/reference.html#the-basics
     markdown.markdownFromFile(
         input='index.md',
