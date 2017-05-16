@@ -11,8 +11,9 @@ __author__ = 'kirk erickson'
 import os, sys, time, warnings, fnmatch, contextlib
 import yaml
 import pprint
-import markdown
+import pdb
 import markupsafe
+import markdown
 import pickle
 from staticjinja import make_site
 try:
@@ -23,8 +24,21 @@ except ImportError:
     from yaml import Loader, Dumper
     sys.stderr.write("WARNING: Could not use C yaml\n")
 
-DATA = './'
 
+from markdown.extensions import Extension
+from markdown.preprocessors import Preprocessor
+
+
+class ReplaceExtension(Extension):
+    def extendMarkdown(self, md, md_globals):
+        processor = ReplacePreprocessor()
+        processor.ext = self
+        md.preprocessors['xray'] = processor
+
+
+class ReplacePreprocessor(Preprocessor):
+    def run(self, lines):
+        return [line.replace('.md', '.html') for line in lines]
 
 def dictsubset(dictionary, subset=()):
     return {k:v for k, v in dictionary.items() if k in subset}
@@ -35,6 +49,9 @@ def dictskip(dictionary, subset=()):
 
 
 class Committee():
+
+    DATA = './'
+
     def __init__(self):
         self.database_load()
 
@@ -118,7 +135,6 @@ class Committee():
         return committees
 
 
-
 if __name__ == "__main__":
 
     # save generated data
@@ -135,21 +151,40 @@ if __name__ == "__main__":
         comm = pickle.load( open( report, "rb" ) )
 
     #print('committes:%s', len(comm))
-    pp = pprint.PrettyPrinter(indent=4)
-    pp.pprint(comm[0])
+    #pp = pprint.PrettyPrinter(indent=4)
+    #pp.pprint(c)
 
     # process data into template
-    site = make_site(env_globals={'comm':comm,})
+    site = make_site(env_globals={'comm':comm}, outpath='./markdown')
+
+    # split each committee into separate file
+    for c in comm:
+        filepath_md = './markdown/{}.md'.format(c['committee']['thomas_id'])
+        # _ makes the template not process
+        ct = site.get_template('_committee.md')
+        site.render_template(ct, context={'c' : c}, filepath=filepath_md)
+
+        filepath_html = './html/{}.html'.format(c['committee']['thomas_id'])
+        markdown.markdownFromFile(
+                input=filepath_md,
+                output=filepath_html,
+                extensions=['markdown.extensions.tables', ReplaceExtension()]
+        )
+
     site.render()
 
-    # convert template markdown into html
-    # https://pythonhosted.org/Markdown/reference.html#the-basics
     markdown.markdownFromFile(
-        input='index.md',
-        output='index.html',
+        input='./markdown/combined_committee.md',
+        output='./html/combined_committee.html',
         extensions=['markdown.extensions.tables']
     )
 
-
-
-
+    # this is just for the main index
+    # convert template markdown into html
+    # https://pythonhosted.org/Markdown/reference.html#the-basics
+    index_html = './html/index.html'
+    markdown.markdownFromFile(
+        input='./markdown/index.md',
+        output=index_html,
+        extensions=['markdown.extensions.tables', ReplaceExtension()]
+    )
