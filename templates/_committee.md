@@ -4,6 +4,9 @@
 
 {{ c['committee']['jurisdiction'] }}
 
+[link]({{ c['committee']['url'] }})
+[minority link]({{ c['committee']['minority_url'] }})
+
 {% for m in c['members'] -%}
 {% set member = c['members'][m] %}
 ### {{ member['name']['official_full'] }}

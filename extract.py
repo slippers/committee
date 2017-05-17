@@ -5,7 +5,7 @@ __author__ = 'kirk erickson'
 
 """
 
-# libyaml-cpp-dev libyaml-dev:q
+# libyaml-cpp-dev libyaml-dev
 
 """
 import os, sys, time, warnings, fnmatch, contextlib
@@ -43,10 +43,20 @@ if __name__ == "__main__":
 
     # split each committee into separate file
     for c in comm:
+        # _ makes the template not process in site.render
+
         filepath_md = './markdown/{}.md'.format(c['committee']['thomas_id'])
-        # _ makes the template not process in site.render normally
-        ct = site.get_template('_committee.md')
-        site.render_template(ct, context={'c' : c}, filepath=filepath_md)
+        site.render_template(site.get_template('_committee.md'),
+                             context={'c' : c},
+                             filepath=filepath_md
+                            )
+
+        filepath_exp = './export/{}.txt'.format(c['committee']['thomas_id'])
+        site.render_template(site.get_template('_committee.txt'),
+                             context={'c' : c},
+                             filepath=filepath_exp
+                            )
+
 
     site.render()
 

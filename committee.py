@@ -101,4 +101,3 @@ class Committee():
             committees.append(comx)
 
         return committees
-

@@ -1,0 +1,7 @@
+"thomas_id","name","member","state","type","party","phone","address","city","state","zip"
+{% for m in c['members'] -%}
+{%- set member = c['members'][m] -%}
+{% for f in c['members'][m]['offices'] -%}
+"{{ c['committee']['thomas_id'] }}","{{ c['committee']['name'] }}","{{ member['name']['official_full'] }}","{{ member['term']['state'] }}","{{ member['term']['type'] }}","{{ member['term']['party'] }}","{{ f['phone'] }}","{{ f['address'] }} {{ f['building'] }} {{ f['suite'] }}","{{ f['city'] }}","{{ f['state'] }}","{{ f['zip'] }}"
+{% endfor %}
+{%- endfor -%}

@@ -4,45 +4,8 @@
 
 
 
-
-### Dianne Feinstein
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| CA | sen | Democrat | [link](https://www.feinstein.senate.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 559-485-7430 | 2500 Tulare St.  Suite 4290 | Fresno | CA | 93721 |
-| 310-914-7300 | 11111 Santa Monica Blvd.  Suite 915 | Los Angeles | CA | 90025 |
-| 619-231-9712 | 880 Front St.  Suite 4236 | San Diego | CA | 92101 |
-| 415-393-0707 | One Post Street  Suite 2450 | San Francisco | CA | 94104 |
-
-
-### Sheldon Whitehouse
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| RI | sen | Democrat | [link](https://www.whitehouse.senate.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 401-453-5294 | 170 Westminster St.  Ste. 200 | Providence | RI | 02903 |
-
-
-### Heidi Heitkamp
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| ND | sen | Democrat | [link](https://www.heitkamp.senate.gov/public) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 701-258-4648 | 220 E. Rosser Ave. 228 Federal Building  | Bismarck | ND | 58501 |
-| 701-225-0974 | 40 1st Ave. West  Suite 202 | Dickinson | ND | 58601 |
-| 701-232-8030 | 657 Second Avenue North 306 Federal Building  | Fargo | ND | 58102 |
-| 701-775-9601 | 33 S. Third St.  Suite B | Grand Forks | ND | 58201 |
-| 701-852-0703 | 100 First St. 105 Federal Building  | Minot | ND | 58701 |
+[link](http://www.drugcaucus.senate.gov/)
+[minority link]()
 
 
 ### Chuck Grassley
@@ -61,6 +24,21 @@
 | 319-232-6657 | 531 Commercial St.   | Waterloo | IA | 50701 |
 
 
+### Heidi Heitkamp
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ND | sen | Democrat | [link](https://www.heitkamp.senate.gov/public) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 701-258-4648 | 220 E. Rosser Ave. 228 Federal Building  | Bismarck | ND | 58501 |
+| 701-225-0974 | 40 1st Ave. West  Suite 202 | Dickinson | ND | 58601 |
+| 701-232-8030 | 657 Second Avenue North 306 Federal Building  | Fargo | ND | 58102 |
+| 701-775-9601 | 33 S. Third St.  Suite B | Grand Forks | ND | 58201 |
+| 701-852-0703 | 100 First St. 105 Federal Building  | Minot | ND | 58701 |
+
+
 ### John Cornyn
 
 | state | type | party | url |
@@ -76,6 +54,31 @@
 | 806-472-7533 | 1500 Broadway  Suite 1230 | Lubbock | TX | 79401 |
 | 210-224-7485 | 600 Navarro  Suite 210 | San Antonio | TX | 78205 |
 | 903-593-0902 | 100 E. Ferguson St. Regions Bank Building Suite 1004 | Tyler | TX | 75702 |
+
+
+### Sheldon Whitehouse
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| RI | sen | Democrat | [link](https://www.whitehouse.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 401-453-5294 | 170 Westminster St.  Ste. 200 | Providence | RI | 02903 |
+
+
+### Dianne Feinstein
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| CA | sen | Democrat | [link](https://www.feinstein.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 559-485-7430 | 2500 Tulare St.  Suite 4290 | Fresno | CA | 93721 |
+| 310-914-7300 | 11111 Santa Monica Blvd.  Suite 915 | Los Angeles | CA | 90025 |
+| 619-231-9712 | 880 Front St.  Suite 4236 | San Diego | CA | 92101 |
+| 415-393-0707 | One Post Street  Suite 2450 | San Francisco | CA | 94104 |
 
 
 ### James E. Risch

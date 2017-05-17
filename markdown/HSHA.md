@@ -4,19 +4,20 @@
 
 The Committee on House Administration is charged with the oversight of federal elections and the day-to-day operations of the House of Representatives
 
+[link](http://cha.house.gov/)
+[minority link](http://democrats.cha.house.gov/)
 
-### Robert A. Brady
+
+### Adrian Smith
 
 | state | type | party | url |
 |:----- |:---- |:----- |:--- |
-| PA | rep | Democrat | [link](http://brady.house.gov) |
+| NE | rep | Republican | [link](http://adriansmith.house.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 610-874-7094 | 1350 Edgmont Ave.  Suite 2575 | Chester | PA | 19013 |
-| 267-519-2252 | 2637 E. Clearfield St.   | Philadelphia | PA | 19134 |
-| 215-426-4616 | 2630 Memphis St.   | Philadelphia | PA | 19125 |
-| 215-389-4627 | 1909 S. Broad St.   | Philadelphia | PA | 19148 |
+| 308-384-3900 | 1811 W. Second St.  Suite 275 | Grand Island | NE | 68803 |
+| 308-633-6333 | 416 Valley View Dr.  Suite 600 | Scottsbluff | NE | 69361 |
 
 
 ### Barbara Comstock
@@ -29,31 +30,6 @@ The Committee on House Administration is charged with the oversight of federal e
 |:----- |:------- |:---- |:----- |:--- |
 | 703-404-6903 | 21430 Cedar Drive  Suite 218 | Sterling | VA | 20164 |
 | 540-773-3600 | 117 E. Piccadilly St.  Suite 100 D | Winchester | VA | 22601 |
-
-
-### Gregg Harper
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| MS | rep | Republican | [link](http://harper.house.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 601-823-3400 | 230 S. Whitworth St.   | Brookhaven | MS | 39601 |
-| 601-693-6681 | 1901 Front St.  Suite A | Meridian | MS | 39301 |
-| 601-932-2410 | 2507-A Old Brandon Rd.   | Pearl | MS | 39208 |
-| 662-324-0007 | 600 Russell St. The Mill at Mississippi State Suite 160 | Starkville | MS | 39759 |
-
-
-### Jamie Raskin
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| MD | rep | Democrat | [link](https://raskin.house.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 301-354-1000 | 51 Monroe St.  Suite 507 | Rockville | MD | 20850 |
 
 
 ### Barry Loudermilk
@@ -69,18 +45,6 @@ The Committee on House Administration is charged with the oversight of federal e
 | 770-429-1776 | 9898 Highway 92  Suite 100 | Woodstock | GA | 30188 |
 
 
-### Adrian Smith
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| NE | rep | Republican | [link](http://adriansmith.house.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 308-384-3900 | 1811 W. Second St.  Suite 275 | Grand Island | NE | 68803 |
-| 308-633-6333 | 416 Valley View Dr.  Suite 600 | Scottsbluff | NE | 69361 |
-
-
 ### Mark Walker
 
 | state | type | party | url |
@@ -93,6 +57,31 @@ The Committee on House Administration is charged with the oversight of federal e
 | 336-333-5005 | 809 Green Valley Rd.  Suite 104 | Greensboro | NC | 27408 |
 
 
+### Robert A. Brady
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| PA | rep | Democrat | [link](http://brady.house.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 610-874-7094 | 1350 Edgmont Ave.  Suite 2575 | Chester | PA | 19013 |
+| 267-519-2252 | 2637 E. Clearfield St.   | Philadelphia | PA | 19134 |
+| 215-426-4616 | 2630 Memphis St.   | Philadelphia | PA | 19125 |
+| 215-389-4627 | 1909 S. Broad St.   | Philadelphia | PA | 19148 |
+
+
+### Jamie Raskin
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MD | rep | Democrat | [link](https://raskin.house.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 301-354-1000 | 51 Monroe St.  Suite 507 | Rockville | MD | 20850 |
+
+
 ### Zoe Lofgren
 
 | state | type | party | url |
@@ -102,6 +91,20 @@ The Committee on House Administration is charged with the oversight of federal e
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
 | 408-271-8700 | 635 N. First St.  Suite B | San Jose | CA | 95112 |
+
+
+### Gregg Harper
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MS | rep | Republican | [link](http://harper.house.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 601-823-3400 | 230 S. Whitworth St.   | Brookhaven | MS | 39601 |
+| 601-693-6681 | 1901 Front St.  Suite A | Meridian | MS | 39301 |
+| 601-932-2410 | 2507-A Old Brandon Rd.   | Pearl | MS | 39208 |
+| 662-324-0007 | 600 Russell St. The Mill at Mississippi State Suite 160 | Starkville | MS | 39759 |
 
 
 ### Rodney Davis

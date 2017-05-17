@@ -4,6 +4,22 @@
 
 
 
+[link](http://www.csce.gov/)
+[minority link]()
+
+
+### Christopher H. Smith
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NJ | rep | Republican | [link](http://chrissmith.house.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 732-780-3035 | 112 Village Center Dr.  Second Floor | Freehold | NJ | 07728 |
+| 609-585-7878 | 4573 S. Broad St.   | Hamilton | NJ | 08620 |
+| 609-286-2571 | 405 Route 539   | Plumsted | NJ | 08514 |
+
 
 ### Michael C. Burgess
 
@@ -16,15 +32,29 @@
 | 940-497-5031 | 2000 S. Stemmons Fwy.  Suite 200 | Lake Dallas | TX | 75065 |
 
 
-### Sheldon Whitehouse
+### Steve Cohen
 
 | state | type | party | url |
 |:----- |:---- |:----- |:--- |
-| RI | sen | Democrat | [link](https://www.whitehouse.senate.gov) |
+| TN | rep | Democrat | [link](https://cohen.house.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 401-453-5294 | 170 Westminster St.  Ste. 200 | Providence | RI | 02903 |
+| 901-544-4131 | 167 N. Main St. The Clifford Davis/Odell Horton Federal Building Suite 369 | Memphis | TN | 38103 |
+
+
+### Robert B. Aderholt
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| AL | rep | Republican | [link](https://aderholt.house.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 256-734-6043 | 205 4th Ave. NE   | Cullman | AL | 35055 |
+| 256-546-0201 | 600 Broad St.  Suite 107 | Gadsden | AL | 35901 |
+| 205-221-2310 | 1710 Alabama Ave.  #247 | Jasper | AL | 35501 |
+| 256-381-3450 | 1011 George Wallace Blvd.  Shoals District Office | Tuscumbia | AL | 35674 |
 
 
 ### Roger F. Wicker
@@ -39,38 +69,6 @@
 | 662-429-1002 | 321 Losher St.   | Hernando | MS | 38632 |
 | 601-965-4644 | 501 E. Court St.  Suite 3-500 | Jackson | MS | 39201 |
 | 662-844-5010 | 330 W. Jefferson St.  Suite B | Tupelo | MS | 38804 |
-
-
-### Benjamin L. Cardin
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| MD | sen | Democrat | [link](https://www.cardin.senate.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 410-962-4436 | 100 S. Charles St. Tower 1 Suite 1710 | Baltimore | MD | 21201 |
-| 301-860-0414 | 10201 Martin Luther King Jr. Highway  Suite 210 | Bowie | MD | 20720 |
-| 301-777-2957 | 13 Canal St.  Room 305 | Cumberland | MD | 21502 |
-| 301-762-2974 | 451 Hungerford Dr.  Suite 230 | Rockville | MD | 20850 |
-| 202-224-4524 | 212 W. Main St. Salisbury  | Salisbury | MD | 21801 |
-
-
-### Marco Rubio
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| FL | sen | Republican | [link](https://www.rubio.senate.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 305-418-8553 | 8669 NW. 36th St.  Suite 110 | Doral | FL | 33166 |
-| 904-398-8586 | 1650 Prudential Dr.  Suite 220 | Jacksonville | FL | 32207 |
-| 239-213-1521 | 3299 E. Tamiami Trl.  Suite 106 | Naples | FL | 34112 |
-| 407-254-2573 | 201 S. Orange Ave.  Suite 350 | Orlando | FL | 32801 |
-| 561-775-3360 | 4580 Pga Blvd.  Suite 201 | Palm Beach Gardens | FL | 33418 |
-| 850-433-2603 | 700 S. Palafox St.  Suite 125 | Pensacola | FL | 32502 |
-| 850-599-9100 | 402 S. Monroe St.  Suite 2105E | Tallahassee | FL | 32399 |
 
 
 ### Cory Gardner
@@ -108,6 +106,18 @@
 | 870-672-6941 | 620 E. 22nd St.  Suite 204 | Stuttgart | AR | 72160 |
 
 
+### Alcee L. Hastings
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| FL | rep | Democrat | [link](http://alceehastings.house.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 954-733-2800 | 2701 W. Oakland Park Blvd.  Suite 200 | Fort Lauderdale | FL | 33311 |
+| 561-469-7048 | 1755 E. Tiffany Dr. Town of Mangonia Park Municipal Center  | Mangonia Park | FL | 33407 |
+
+
 ### Tom Udall
 
 | state | type | party | url |
@@ -121,71 +131,6 @@
 | 575-526-5475 | 201 N. Church St.  Suite 201B | Las Cruces | NM | 88001 |
 | 575-356-6811 | 100 South Avenue A  Suite 113 | Portales | NM | 88130 |
 | 505-988-6511 | 120 S. Federal Pl.  Suite 302 | Santa Fe | NM | 87501 |
-
-
-### Robert B. Aderholt
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| AL | rep | Republican | [link](https://aderholt.house.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 256-734-6043 | 205 4th Ave. NE   | Cullman | AL | 35055 |
-| 256-546-0201 | 600 Broad St.  Suite 107 | Gadsden | AL | 35901 |
-| 205-221-2310 | 1710 Alabama Ave.  #247 | Jasper | AL | 35501 |
-| 256-381-3450 | 1011 George Wallace Blvd.  Shoals District Office | Tuscumbia | AL | 35674 |
-
-
-### Christopher H. Smith
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| NJ | rep | Republican | [link](http://chrissmith.house.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 732-780-3035 | 112 Village Center Dr.  Second Floor | Freehold | NJ | 07728 |
-| 609-585-7878 | 4573 S. Broad St.   | Hamilton | NJ | 08620 |
-| 609-286-2571 | 405 Route 539   | Plumsted | NJ | 08514 |
-
-
-### Louise McIntosh Slaughter
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| NY | rep | Democrat | [link](https://louise.house.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 585-232-4850 | 100 State St.   | Rochester | NY | 14614 |
-
-
-### Alcee L. Hastings
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| FL | rep | Democrat | [link](http://alceehastings.house.gov) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 954-733-2800 | 2701 W. Oakland Park Blvd.  Suite 200 | Fort Lauderdale | FL | 33311 |
-| 561-469-7048 | 1755 E. Tiffany Dr. Town of Mangonia Park Municipal Center  | Mangonia Park | FL | 33407 |
-
-
-### Thom Tillis
-
-| state | type | party | url |
-|:----- |:---- |:----- |:--- |
-| NC | sen | Republican | [link](https://www.tillis.senate.gov/public) |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 704-509-9087 | 9300 Harris Corners Pky.  Suite 170 | Charlotte | NC | 28269 |
-| 252-329-0371 | 1694 E. Arlington Blvd.  Suite B | Greenville | NC | 27858 |
-| 828-693-8750 | 1 Historic Courthouse Sq. Suite 112  | Hendersonville | NC | 28792 |
-| 336-885-0685 | 1840 Eastchester Dr.  Suite 200 | High Point | NC | 27265 |
-| 919-856-4630 | 310 New Bern Ave.  Suite 122 | Raleigh | NC | 27601 |
 
 
 ### Jeanne Shaheen
@@ -204,14 +149,72 @@
 | 603-883-0196 | 60 Main St.  Suite 217 | Nashua | NH | 03060 |
 
 
-### Steve Cohen
+### Louise McIntosh Slaughter
 
 | state | type | party | url |
 |:----- |:---- |:----- |:--- |
-| TN | rep | Democrat | [link](https://cohen.house.gov) |
+| NY | rep | Democrat | [link](https://louise.house.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 901-544-4131 | 167 N. Main St. The Clifford Davis/Odell Horton Federal Building Suite 369 | Memphis | TN | 38103 |
+| 585-232-4850 | 100 State St.   | Rochester | NY | 14614 |
+
+
+### Benjamin L. Cardin
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MD | sen | Democrat | [link](https://www.cardin.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 410-962-4436 | 100 S. Charles St. Tower 1 Suite 1710 | Baltimore | MD | 21201 |
+| 301-860-0414 | 10201 Martin Luther King Jr. Highway  Suite 210 | Bowie | MD | 20720 |
+| 301-777-2957 | 13 Canal St.  Room 305 | Cumberland | MD | 21502 |
+| 301-762-2974 | 451 Hungerford Dr.  Suite 230 | Rockville | MD | 20850 |
+| 202-224-4524 | 212 W. Main St. Salisbury  | Salisbury | MD | 21801 |
+
+
+### Thom Tillis
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NC | sen | Republican | [link](https://www.tillis.senate.gov/public) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 704-509-9087 | 9300 Harris Corners Pky.  Suite 170 | Charlotte | NC | 28269 |
+| 252-329-0371 | 1694 E. Arlington Blvd.  Suite B | Greenville | NC | 27858 |
+| 828-693-8750 | 1 Historic Courthouse Sq. Suite 112  | Hendersonville | NC | 28792 |
+| 336-885-0685 | 1840 Eastchester Dr.  Suite 200 | High Point | NC | 27265 |
+| 919-856-4630 | 310 New Bern Ave.  Suite 122 | Raleigh | NC | 27601 |
+
+
+### Sheldon Whitehouse
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| RI | sen | Democrat | [link](https://www.whitehouse.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 401-453-5294 | 170 Westminster St.  Ste. 200 | Providence | RI | 02903 |
+
+
+### Marco Rubio
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| FL | sen | Republican | [link](https://www.rubio.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 305-418-8553 | 8669 NW. 36th St.  Suite 110 | Doral | FL | 33166 |
+| 904-398-8586 | 1650 Prudential Dr.  Suite 220 | Jacksonville | FL | 32207 |
+| 239-213-1521 | 3299 E. Tamiami Trl.  Suite 106 | Naples | FL | 34112 |
+| 407-254-2573 | 201 S. Orange Ave.  Suite 350 | Orlando | FL | 32801 |
+| 561-775-3360 | 4580 Pga Blvd.  Suite 201 | Palm Beach Gardens | FL | 33418 |
+| 850-433-2603 | 700 S. Palafox St.  Suite 125 | Pensacola | FL | 32502 |
+| 850-599-9100 | 402 S. Monroe St.  Suite 2105E | Tallahassee | FL | 32399 |
 
 
