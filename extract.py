@@ -9,130 +9,14 @@ __author__ = 'kirk erickson'
 
 """
 import os, sys, time, warnings, fnmatch, contextlib
-import yaml
 import pprint
 import pdb
 import markupsafe
 import markdown
 import pickle
 from staticjinja import make_site
-try:
-    from yaml import CLoader as Loader
-    from yaml import CDumper as Dumper
-    sys.stderr.write("SWEET: using C yaml\n")
-except ImportError:
-    from yaml import Loader, Dumper
-    sys.stderr.write("WARNING: Could not use C yaml\n")
-
-
-from markdown.extensions import Extension
-from markdown.preprocessors import Preprocessor
-
-
-class ReplaceExtension(Extension):
-    def extendMarkdown(self, md, md_globals):
-        processor = ReplacePreprocessor()
-        processor.ext = self
-        md.preprocessors['xray'] = processor
-
-
-class ReplacePreprocessor(Preprocessor):
-    def run(self, lines):
-        return [line.replace('.md', '.html') for line in lines]
-
-def dictsubset(dictionary, subset=()):
-    return {k:v for k, v in dictionary.items() if k in subset}
-
-
-def dictskip(dictionary, subset=()):
-    return {k:v for k, v in dictionary.items() if k not in subset}
-
-
-class Committee():
-
-    DATA = './'
-
-    def __init__(self):
-        self.database_load()
-
-    def database_access(self, filename):
-        fname_fullpath = os.path.join(DATA, filename)
-        if not os.path.exists(fname_fullpath):
-            raise FileNotFoundError(
-                'File {} doesn\'t exist;'.format(filename)
-            )
-
-        with open(fname_fullpath, 'r') as f:
-            doc = yaml.safe_load(f)
-            if doc is None: doc = []  # make it an empty iterable
-            return doc
-
-    def database_load(self):
-        self.legislators = self.database_access('legislators-current.yaml')
-        self.offices = self.database_access('legislators-district-offices.yaml')
-        self.committees = self.database_access('committees-current.yaml')
-        self.membership = self.database_access('committee-membership-current.yaml')
-
-    def lookup_office(self, member):
-        for off in ( off for off in self.offices \
-                    if ('bioguide' in off['id'] \
-                        and 'bioguide' in member \
-                        and off['id']['bioguide'] == member['bioguide']) \
-                    or ('thomas' in off['id'] \
-                        and 'thomas' in member \
-                        and off['id']['thomas'] == member['thomas'])
-                   ):
-            return off
-        warnings.warn('member not found:{}'.format(member['name']))
-
-    def lookup_by_member(self, member):
-        #print(mem['name'])
-        for leg in ( leg for leg in self.legislators if \
-                    (leg['name']['official_full'] == member['name']) \
-                    or ('bioguide' in leg['id'] \
-                        and 'bioguide' in member \
-                        and leg['id']['bioguide'] == member['bioguide']) \
-                    or ('thomas' in leg['id'] \
-                        and 'thomas' in member \
-                        and leg['id']['thomas'] == member['thomas']) ):
-            return leg
-        raise Exception('member not found:{}'.format(member['name']))
-
-    def report(self):
-        committees = []
-        for com in self.committees:
-            #print(com['name'])
-
-            comx = {}
-            comx['committee'] = dictskip(com, ('subcommittees'))
-
-            memx = {}
-
-            if not com['thomas_id'] in self.membership:
-                print('members not found in:%s', com['thomas_id'])
-                continue
-            for mem in self.membership[com['thomas_id']]:
-                leg = self.lookup_by_member(mem)
-
-                member = dictsubset(leg, ('bio', 'id', 'name'))
-
-                # add most recent term
-                member['term'] = leg['terms'][-1]
-
-                # add office to member
-                offices = self.lookup_office(mem)
-                if offices:
-                    member['offices'] = offices['offices']
-
-                # add the member
-                memx[mem['name']] = member
-
-
-            comx['members'] = memx
-
-            committees.append(comx)
-
-        return committees
+from markdown_replace import ReplaceExtension
+from committee import Committee
 
 
 if __name__ == "__main__":
@@ -160,31 +44,20 @@ if __name__ == "__main__":
     # split each committee into separate file
     for c in comm:
         filepath_md = './markdown/{}.md'.format(c['committee']['thomas_id'])
-        # _ makes the template not process
+        # _ makes the template not process in site.render normally
         ct = site.get_template('_committee.md')
         site.render_template(ct, context={'c' : c}, filepath=filepath_md)
 
-        filepath_html = './html/{}.html'.format(c['committee']['thomas_id'])
-        markdown.markdownFromFile(
-                input=filepath_md,
-                output=filepath_html,
-                extensions=['markdown.extensions.tables', ReplaceExtension()]
-        )
-
     site.render()
 
-    markdown.markdownFromFile(
-        input='./markdown/combined_committee.md',
-        output='./html/combined_committee.html',
-        extensions=['markdown.extensions.tables']
-    )
-
-    # this is just for the main index
     # convert template markdown into html
     # https://pythonhosted.org/Markdown/reference.html#the-basics
-    index_html = './html/index.html'
-    markdown.markdownFromFile(
-        input='./markdown/index.md',
-        output=index_html,
-        extensions=['markdown.extensions.tables', ReplaceExtension()]
-    )
+    for filename in os.listdir('./markdown'):
+        if filename.endswith('.md'):
+            print('markdown:', filename)
+            markdown.markdownFromFile(
+                input= os.path.join('./markdown/', filename),
+                output= os.path.join('./html', os.path.splitext(filename)[0] + '.html'),
+                extensions=['markdown.extensions.tables',
+                            'markdown_replace(search=.md, replace=.html)']
+            )

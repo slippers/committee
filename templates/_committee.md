@@ -8,9 +8,9 @@
 {% set member = c['members'][m] %}
 ### {{ member['name']['official_full'] }}
 
-| state | type | party |
-|:----- |:---- |:----- |
-| {{ member['term']['state'] }} | {{ member['term']['type'] }} | {{ member['term']['party'] }} |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| {{ member['term']['state'] }} | {{ member['term']['type'] }} | {{ member['term']['party'] }} | [link]({{ member['term']['url'] }}) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |

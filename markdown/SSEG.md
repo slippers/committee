@@ -5,126 +5,11 @@
 
 
 
-### Ron Wyden
-
-| state | type | party |
-|:----- |:---- |:----- |
-| OR | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 541-330-9142 | 131 NW. Hawthorne Ave. The Jamison Building Suite 107 | Bend | OR | 97701 |
-| 541-431-0229 | 405 E. 8th Ave.  Suite 2020 | Eugene | OR | 97401 |
-| 541-962-7691 | 105 Fir St. SAC Annex Building Suite 201 | La Grande | OR | 97850 |
-| 541-858-5122 | 310 W. 6th St. Federal Courthouse Room 118 | Medford | OR | 97501 |
-| 503-326-7525 | 911 11th Ave.  Suite 630 | Portland | OR | 97232 |
-| 503-589-4555 | 707 13th St.  Suite 285 | Salem | OR | 97301 |
-
-
-### Angus S. King, Jr.
-
-| state | type | party |
-|:----- |:---- |:----- |
-| ME | sen | Independent |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 207-622-8292 | 4 Gabriel Dr.  Suite 3 | Augusta | ME | 04330 |
-| 207-945-8000 | 202 Harlow St.  Suite 20350 | Bangor | ME | 04401 |
-| 207-764-5124 | 169 Academy St.  Suite A | Presque Isle | ME | 04769 |
-| 207-883-1588 | 383 Route 1  Suite 1C | Scarborough | ME | 04074 |
-
-
-### Martin Heinrich
-
-| state | type | party |
-|:----- |:---- |:----- |
-| NM | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 505-346-6601 | 400 Gold Ave.  Ste. 1080 | Albuquerque | NM | 87102 |
-| 505-325-5030 | 7450 E. Main St.  Ste. A | Farmington | NM | 87402 |
-| 575-523-6561 | 505 S. Main St. Loretto Towne Center Ste. 148 | Las Cruces | NM | 88001 |
-| 575-622-7113 | 200 E. 4th St.  Ste. 300 | Roswell | NM | 88201 |
-| 505-988-6647 | 123 E. Marcy St.  Ste. 103 | Santa Fe | NM | 87501 |
-
-
-### Bill Cassidy
-
-| state | type | party |
-|:----- |:---- |:----- |
-| LA | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 318-448-7176 | 3600 Jackson St.  Ste. 115A | Alexandria | LA | 71303 |
-| 225-929-7711 | 5555 Hilton Ave.  Ste. 100 | Baton Rouge | LA | 70808 |
-| 337-493-5398 | 1 Lakeshore Dr.  Suite 1155 | Lake Charles | LA | 70629 |
-| 337-261-1400 | 101 France  Ste. 505 | Lafayette | LA | 70508 |
-| 504-838-0130 | 3421 N. Causeway Blvd.  Suite 204 | Metairie | LA | 70002 |
-| 318-324-2111 | 1651 Louisville Ave.  Suite 123 | Monroe | LA | 70201 |
-| 318-798-3215 | 6425 Youree Dr.  Suite 415 | Shreveport | LA | 71105 |
-
-
-### Lisa Murkowski
-
-| state | type | party |
-|:----- |:---- |:----- |
-| AK | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 907-271-3735 | 510 L St.  Suite 600 | Anchorage | AK | 99501 |
-| 907-456-0233 | 101 12th Ave. Federal Building Suite 329 | Fairbanks | AK | 99701 |
-| 907-586-7277 | 800 Glacier Ave.  Suite 101 | Juneau | AK | 99801 |
-| 907-283-5808 | 805 Frontage Rd.  Suite 105 | Kenai | AK | 99611 |
-| 907-225-6880 | 1900 First Ave.  225 | Ketchikan | AK | 99901 |
-| 907-376-7665 | 851 E. Westpoint Dr.  Suite 307 | Wasilla | AK | 99654 |
-
-
-### Bernard Sanders
-
-| state | type | party |
-|:----- |:---- |:----- |
-| VT | sen | Independent |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 802-862-0697 | 1 Church St.  3rd Floor | Burlington | VT | 05401 |
-| 802-748-9269 | 357 Western Ave.  Suite 1B | St. Johnsbury | VT | 05819 |
-
-
-### Tammy Duckworth
-
-| state | type | party |
-|:----- |:---- |:----- |
-| IL | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 312-886-3506 | 230 South Dearborn Street  Suite 3900 | Chicago | IL | 60604 |
-
-
-### Rob Portman
-
-| state | type | party |
-|:----- |:---- |:----- |
-| OH | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 513-684-3265 | 312 Walnut St.  Suite 3075 | Cincinnati | OH | 45202 |
-| 216-522-7095 | 1240 E. 9th St.  Room 3061 | Cleveland | OH | 44199 |
-| 614-469-6774 | 37 W. Broad St.  Room 300 | Columbus | OH | 43215 |
-| 419-259-3895 | 420 Madison Ave.  Room 1210 | Toledo | OH | 43604 |
-
-
 ### John Hoeven
 
-| state | type | party |
-|:----- |:---- |:----- |
-| ND | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ND | sen | Republican | [link](https://www.hoeven.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -135,48 +20,41 @@
 | 701-580-4535 |    | Williston | ND |  |
 
 
-### Joe Manchin, III
+### Angus S. King, Jr.
 
-| state | type | party |
-|:----- |:---- |:----- |
-| WV | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 304-342-5855 | 900 Pennsylvania Ave.  Suite 629 | Charleston | WV | 25302 |
-| 304-368-0567 | 230 Adams St.   | Fairmont | WV | 26554 |
-| 304-264-4626 | 261 Aikens Ctr.  Suite 305 | Martinsburg | WV | 25404 |
-
-
-### Al Franken
-
-| state | type | party |
-|:----- |:---- |:----- |
-| MN | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ME | sen | Independent | [link](https://www.king.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 218-722-2390 | 515 W. 1st St.  Suite 104 | Duluth | MN | 55802 |
-| 218-284-8721 | 819 Center Ave.  Suite 2A | Moorhead | MN | 56560 |
-| 507-288-2003 | 1202-1/2 7th Street NW  213 | Rochester | MN | 55901 |
-| 651-221-1016 | 60 E. Plato Blvd.  Suite 220 | Saint Paul | MN | 55107 |
+| 207-622-8292 | 4 Gabriel Dr.  Suite 3 | Augusta | ME | 04330 |
+| 207-945-8000 | 202 Harlow St.  Suite 20350 | Bangor | ME | 04401 |
+| 207-764-5124 | 169 Academy St.  Suite A | Presque Isle | ME | 04769 |
+| 207-883-1588 | 383 Route 1  Suite 1C | Scarborough | ME | 04074 |
 
 
-### Luther Strange
+### James E. Risch
 
-| state | type | party |
-|:----- |:---- |:----- |
-| AL | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ID | sen | Republican | [link](https://www.risch.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
+| 208-342-7985 | 350 N. 9th St.  Ste 302 | Boise | ID | 83702 |
+| 208-667-6130 | 610 Hubbard  Suite 213 | Coeur d'Alene | ID | 83814 |
+| 208-523-5541 | 901 Pier View Dr.  Suite 202A | Idaho Falls | ID | 83402 |
+| 208-743-0792 | 313 D St.  Suite 106 | Lewiston | ID | 83501 |
+| 208-236-6817 | 275 S. 5th Ave.  Suite 290 | Pocatello | ID | 83201 |
+| 208-734-6780 | 1411 Falls Avenue East  Suite 201 | Twin Falls | ID | 83301 |
 
 
 ### Mike Lee
 
-| state | type | party |
-|:----- |:---- |:----- |
-| UT | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| UT | sen | Republican | [link](https://www.lee.senate.gov/public) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -185,11 +63,54 @@
 | 435-628-5514 | 285 W. Tabernacle  Suite 200 | St. George | UT | 84770 |
 
 
+### Martin Heinrich
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NM | sen | Democrat | [link](https://www.heinrich.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 505-346-6601 | 400 Gold Ave.  Ste. 1080 | Albuquerque | NM | 87102 |
+| 505-325-5030 | 7450 E. Main St.  Ste. A | Farmington | NM | 87402 |
+| 575-523-6561 | 505 S. Main St. Loretto Towne Center Ste. 148 | Las Cruces | NM | 88001 |
+| 575-622-7113 | 200 E. 4th St.  Ste. 300 | Roswell | NM | 88201 |
+| 505-988-6647 | 123 E. Marcy St.  Ste. 103 | Santa Fe | NM | 87501 |
+
+
+### Debbie Stabenow
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MI | sen | Democrat | [link](https://www.stabenow.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 313-961-4330 | 719 Griswold St.  Suite 700 | Detroit | MI | 48226 |
+| 517-203-1760 | 221 W. Lake Lansing Rd.  Suite 100 | East Lansing | MI | 48823 |
+| 810-720-4172 | 432 N. Saginaw St.  Suite 301 | Flint | MI | 48502 |
+| 616-975-0052 | 3280 E. Beltline Ct.  Suite 400 | Grand Rapids | MI | 49525 |
+| 906-228-8756 | 1901 W. Ridge  Suite 7 | Marquette | MI | 49855 |
+| 231-929-1031 | 3335 S. Airport Road West  Suite 6B | Traverse City | MI | 49684 |
+
+
+### Jeff Flake
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| AZ | sen | Republican | [link](https://www.flake.senate.gov/public) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 602-840-1891 | 2200 E. Camelback Rd.  Suite 120 | Phoenix | AZ | 85016 |
+| 520-575-8633 | 6840 N. Oracle Rd.  Suite 150 | Tucson | AZ | 85704 |
+
+
 ### Steve Daines
 
-| state | type | party |
-|:----- |:---- |:----- |
-| MT | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MT | sen | Republican | [link](https://www.daines.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -203,43 +124,48 @@
 | 406-482-9010 | 609 S. Central Ave. (Central Plaza Building) Suite #4 | Sidney | MT | 59270 |
 
 
-### James E. Risch
+### Rob Portman
 
-| state | type | party |
-|:----- |:---- |:----- |
-| ID | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 208-342-7985 | 350 N. 9th St.  Ste 302 | Boise | ID | 83702 |
-| 208-667-6130 | 610 Hubbard  Suite 213 | Coeur d'Alene | ID | 83814 |
-| 208-523-5541 | 901 Pier View Dr.  Suite 202A | Idaho Falls | ID | 83402 |
-| 208-743-0792 | 313 D St.  Suite 106 | Lewiston | ID | 83501 |
-| 208-236-6817 | 275 S. 5th Ave.  Suite 290 | Pocatello | ID | 83201 |
-| 208-734-6780 | 1411 Falls Avenue East  Suite 201 | Twin Falls | ID | 83301 |
-
-
-### Lamar Alexander
-
-| state | type | party |
-|:----- |:---- |:----- |
-| TN | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| OH | sen | Republican | [link](https://www.portman.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 423-325-6240 | 2525 Highway 75 Tri-Cities Regional Airport Suite 101 | Blountville | TN | 37617 |
-| 423-752-5337 | 900 Georgia Ave. Joel E. Soloman Federal Building #260 | Chattanooga | TN | 37402 |
-| 731-664-0289 | 111 Murray Guard Dr.  Suite D | Jackson | TN | 38305 |
-| 865-545-4253 | 800 Market St. Howard H. Baker, Jr., U.S. Courthouse #112 | Knoxville | TN | 37902 |
-| 901-544-4224 | 167 N. Main St. Clifford Davis-Odell Horton Federal Building #1068 | Memphis | TN | 38103 |
-| 615-736-5129 | 3322 W. End Ave.  #120 | Nashville | TN | 37203 |
+| 513-684-3265 | 312 Walnut St.  Suite 3075 | Cincinnati | OH | 45202 |
+| 216-522-7095 | 1240 E. 9th St.  Room 3061 | Cleveland | OH | 44199 |
+| 614-469-6774 | 37 W. Broad St.  Room 300 | Columbus | OH | 43215 |
+| 419-259-3895 | 420 Madison Ave.  Room 1210 | Toledo | OH | 43604 |
+
+
+### Catherine Cortez Masto
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NV | sen | Democrat | [link](https://www.cortezmasto.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 702-388-5020 | 333 Las Vegas Boulevard South  Suite 8016 | Las Vegas | NV | 89101 |
+| 775-686-5750 | 400 South Virginia Street Courthouse and Federal Building Suite 902 | Reno | NV | 89501 |
+
+
+### Mazie K. Hirono
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| HI | sen | Democrat | [link](https://www.hirono.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 808-522-8970 | 300 Ala Moana Blvd. Prince Kuhio Federal Building Rm. 3-106 | Honolulu | HI | 96850 |
 
 
 ### John Barrasso
 
-| state | type | party |
-|:----- |:---- |:----- |
-| WY | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| WY | sen | Republican | [link](https://www.barrasso.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -250,27 +176,41 @@
 | 307-672-6456 | 2 N. Main St.  Suite 206 | Sheridan | WY | 82801 |
 
 
-### Debbie Stabenow
+### Lisa Murkowski
 
-| state | type | party |
-|:----- |:---- |:----- |
-| MI | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| AK | sen | Republican | [link](https://www.murkowski.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 313-961-4330 | 719 Griswold St.  Suite 700 | Detroit | MI | 48226 |
-| 517-203-1760 | 221 W. Lake Lansing Rd.  Suite 100 | East Lansing | MI | 48823 |
-| 810-720-4172 | 432 N. Saginaw St.  Suite 301 | Flint | MI | 48502 |
-| 616-975-0052 | 3280 E. Beltline Ct.  Suite 400 | Grand Rapids | MI | 49525 |
-| 906-228-8756 | 1901 W. Ridge  Suite 7 | Marquette | MI | 49855 |
-| 231-929-1031 | 3335 S. Airport Road West  Suite 6B | Traverse City | MI | 49684 |
+| 907-271-3735 | 510 L St.  Suite 600 | Anchorage | AK | 99501 |
+| 907-456-0233 | 101 12th Ave. Federal Building Suite 329 | Fairbanks | AK | 99701 |
+| 907-586-7277 | 800 Glacier Ave.  Suite 101 | Juneau | AK | 99801 |
+| 907-283-5808 | 805 Frontage Rd.  Suite 105 | Kenai | AK | 99611 |
+| 907-225-6880 | 1900 First Ave.  225 | Ketchikan | AK | 99901 |
+| 907-376-7665 | 851 E. Westpoint Dr.  Suite 307 | Wasilla | AK | 99654 |
+
+
+### Al Franken
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MN | sen | Democrat | [link](https://www.franken.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 218-722-2390 | 515 W. 1st St.  Suite 104 | Duluth | MN | 55802 |
+| 218-284-8721 | 819 Center Ave.  Suite 2A | Moorhead | MN | 56560 |
+| 507-288-2003 | 1202-1/2 7th Street NW  213 | Rochester | MN | 55901 |
+| 651-221-1016 | 60 E. Plato Blvd.  Suite 220 | Saint Paul | MN | 55107 |
 
 
 ### Cory Gardner
 
-| state | type | party |
-|:----- |:---- |:----- |
-| CO | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| CO | sen | Republican | [link](https://www.gardner.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -284,34 +224,51 @@
 | 970-848-3095 | 529 N. Albany St.  Ste. 1220 | Yuma | CO | 80759 |
 
 
-### Mazie K. Hirono
+### Bill Cassidy
 
-| state | type | party |
-|:----- |:---- |:----- |
-| HI | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 808-522-8970 | 300 Ala Moana Blvd. Prince Kuhio Federal Building Rm. 3-106 | Honolulu | HI | 96850 |
-
-
-### Catherine Cortez Masto
-
-| state | type | party |
-|:----- |:---- |:----- |
-| NV | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| LA | sen | Republican | [link](https://www.cassidy.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 702-388-5020 | 333 Las Vegas Boulevard South  Suite 8016 | Las Vegas | NV | 89101 |
-| 775-686-5750 | 400 South Virginia Street Courthouse and Federal Building Suite 902 | Reno | NV | 89501 |
+| 318-448-7176 | 3600 Jackson St.  Ste. 115A | Alexandria | LA | 71303 |
+| 225-929-7711 | 5555 Hilton Ave.  Ste. 100 | Baton Rouge | LA | 70808 |
+| 337-493-5398 | 1 Lakeshore Dr.  Suite 1155 | Lake Charles | LA | 70629 |
+| 337-261-1400 | 101 France  Ste. 505 | Lafayette | LA | 70508 |
+| 504-838-0130 | 3421 N. Causeway Blvd.  Suite 204 | Metairie | LA | 70002 |
+| 318-324-2111 | 1651 Louisville Ave.  Suite 123 | Monroe | LA | 70201 |
+| 318-798-3215 | 6425 Youree Dr.  Suite 415 | Shreveport | LA | 71105 |
+
+
+### Luther Strange
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| AL | sen | Republican | [link](https://www.strange.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+
+
+### Joe Manchin, III
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| WV | sen | Democrat | [link](https://www.manchin.senate.gov/public) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 304-342-5855 | 900 Pennsylvania Ave.  Suite 629 | Charleston | WV | 25302 |
+| 304-368-0567 | 230 Adams St.   | Fairmont | WV | 26554 |
+| 304-264-4626 | 261 Aikens Ctr.  Suite 305 | Martinsburg | WV | 25404 |
 
 
 ### Maria Cantwell
 
-| state | type | party |
-|:----- |:---- |:----- |
-| WA | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| WA | sen | Democrat | [link](https://www.cantwell.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -323,15 +280,58 @@
 | 360-696-7838 | 1313 Officers Row.   | Vancouver | WA | 98661 |
 
 
-### Jeff Flake
+### Bernard Sanders
 
-| state | type | party |
-|:----- |:---- |:----- |
-| AZ | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| VT | sen | Independent | [link](https://www.sanders.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 602-840-1891 | 2200 E. Camelback Rd.  Suite 120 | Phoenix | AZ | 85016 |
-| 520-575-8633 | 6840 N. Oracle Rd.  Suite 150 | Tucson | AZ | 85704 |
+| 802-862-0697 | 1 Church St.  3rd Floor | Burlington | VT | 05401 |
+| 802-748-9269 | 357 Western Ave.  Suite 1B | St. Johnsbury | VT | 05819 |
+
+
+### Lamar Alexander
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| TN | sen | Republican | [link](https://www.alexander.senate.gov/public) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 423-325-6240 | 2525 Highway 75 Tri-Cities Regional Airport Suite 101 | Blountville | TN | 37617 |
+| 423-752-5337 | 900 Georgia Ave. Joel E. Soloman Federal Building #260 | Chattanooga | TN | 37402 |
+| 731-664-0289 | 111 Murray Guard Dr.  Suite D | Jackson | TN | 38305 |
+| 865-545-4253 | 800 Market St. Howard H. Baker, Jr., U.S. Courthouse #112 | Knoxville | TN | 37902 |
+| 901-544-4224 | 167 N. Main St. Clifford Davis-Odell Horton Federal Building #1068 | Memphis | TN | 38103 |
+| 615-736-5129 | 3322 W. End Ave.  #120 | Nashville | TN | 37203 |
+
+
+### Tammy Duckworth
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| IL | sen | Democrat | [link](https://www.duckworth.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 312-886-3506 | 230 South Dearborn Street  Suite 3900 | Chicago | IL | 60604 |
+
+
+### Ron Wyden
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| OR | sen | Democrat | [link](https://www.wyden.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 541-330-9142 | 131 NW. Hawthorne Ave. The Jamison Building Suite 107 | Bend | OR | 97701 |
+| 541-431-0229 | 405 E. 8th Ave.  Suite 2020 | Eugene | OR | 97401 |
+| 541-962-7691 | 105 Fir St. SAC Annex Building Suite 201 | La Grande | OR | 97850 |
+| 541-858-5122 | 310 W. 6th St. Federal Courthouse Room 118 | Medford | OR | 97501 |
+| 503-326-7525 | 911 11th Ave.  Suite 630 | Portland | OR | 97232 |
+| 503-589-4555 | 707 13th St.  Suite 285 | Salem | OR | 97301 |
 
 

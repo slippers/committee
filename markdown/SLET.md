@@ -5,11 +5,33 @@
 
 
 
+### Johnny Isakson
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| GA | sen | Republican | [link](https://www.isakson.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 770-661-0999 | 3625 Cumberland Blvd. One Overton Park Suite 970 | Atlanta | GA | 30339 |
+
+
+### Brian Schatz
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| HI | sen | Democrat | [link](https://www.schatz.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 808-523-2061 | 300 Ala Moana Blvd.  Rm 7-212 | Honolulu | HI | 96850 |
+
+
 ### James E. Risch
 
-| state | type | party |
-|:----- |:---- |:----- |
-| ID | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ID | sen | Republican | [link](https://www.risch.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -21,33 +43,11 @@
 | 208-734-6780 | 1411 Falls Avenue East  Suite 201 | Twin Falls | ID | 83301 |
 
 
-### Johnny Isakson
-
-| state | type | party |
-|:----- |:---- |:----- |
-| GA | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 770-661-0999 | 3625 Cumberland Blvd. One Overton Park Suite 970 | Atlanta | GA | 30339 |
-
-
-### Brian Schatz
-
-| state | type | party |
-|:----- |:---- |:----- |
-| HI | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 808-523-2061 | 300 Ala Moana Blvd.  Rm 7-212 | Honolulu | HI | 96850 |
-
-
 ### Christopher A. Coons
 
-| state | type | party |
-|:----- |:---- |:----- |
-| DE | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| DE | sen | Democrat | [link](https://www.coons.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -55,25 +55,11 @@
 | 302-573-6345 | 1105 N. Market St.  Suite 100 | Wilmington | DE | 19801-1233 |
 
 
-### Pat Roberts
-
-| state | type | party |
-|:----- |:---- |:----- |
-| KS | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 620-227-2244 | 100 Military Plz.  PO Box 550 | Dodge City | KS | 67801 |
-| 913-451-9343 | 11900 College Boulevard  Suite 203 | Overland Park | KS | 66210 |
-| 785-295-2745 | 444 SE. Quincy Frank Carlson Federal Bldg. Room 392 | Topeka | KS | 66683 |
-| 316-263-0416 | 125 N. Market St.  Suite 1120 | Wichita | KS | 67202 |
-
-
 ### Jeanne Shaheen
 
-| state | type | party |
-|:----- |:---- |:----- |
-| NH | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NH | sen | Democrat | [link](https://www.shaheen.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -83,5 +69,19 @@
 | 603-358-6604 | 12 Gilbo Ave.  Suite C | Keene | NH | 03431 |
 | 603-647-7500 | 2 Wall St.  Suite 220 | Manchester | NH | 03101 |
 | 603-883-0196 | 60 Main St.  Suite 217 | Nashua | NH | 03060 |
+
+
+### Pat Roberts
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| KS | sen | Republican | [link](https://www.roberts.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 620-227-2244 | 100 Military Plz.  PO Box 550 | Dodge City | KS | 67801 |
+| 913-451-9343 | 11900 College Boulevard  Suite 203 | Overland Park | KS | 66210 |
+| 785-295-2745 | 444 SE. Quincy Frank Carlson Federal Bldg. Room 392 | Topeka | KS | 66683 |
+| 316-263-0416 | 125 N. Market St.  Suite 1120 | Wichita | KS | 67202 |
 
 

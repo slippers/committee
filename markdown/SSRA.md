@@ -7,9 +7,9 @@
 
 ### Dianne Feinstein
 
-| state | type | party |
-|:----- |:---- |:----- |
-| CA | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| CA | sen | Democrat | [link](https://www.feinstein.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -19,25 +19,54 @@
 | 415-393-0707 | One Post Street  Suite 2450 | San Francisco | CA | 94104 |
 
 
-### Angus S. King, Jr.
+### Thad Cochran
 
-| state | type | party |
-|:----- |:---- |:----- |
-| ME | sen | Independent |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MS | sen | Republican | [link](https://www.cochran.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 207-622-8292 | 4 Gabriel Dr.  Suite 3 | Augusta | ME | 04330 |
-| 207-945-8000 | 202 Harlow St.  Suite 20350 | Bangor | ME | 04401 |
-| 207-764-5124 | 169 Academy St.  Suite A | Presque Isle | ME | 04769 |
-| 207-883-1588 | 383 Route 1  Suite 1C | Scarborough | ME | 04074 |
+| 228-867-9710 | 2012 15th St.  Suite 451 | Gulfport | MS | 39501 |
+| 601-965-4459 | 190 E. Capitol St.  Suite 550 | Jackson | MS | 39201 |
+| 662-236-1018 | 911 East Jackson Avenue U.S. Federal Courthouse Suite 249 | Oxford | MS | 38655 |
+
+
+### Mitch McConnell
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| KY | sen | Republican | [link](https://www.mcconnell.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 270-781-1673 | 241 E. Main St. Federal Building Rm. 102 | Bowling Green | KY | 42101 |
+| 859-578-0188 | 1885 Dixie Hwy.  Suite 345 | Fort Wright | KY | 41011 |
+| 859-224-8286 | 771 Corporate Dr.  Suite 108 | Lexington | KY | 40503 |
+| 606-864-2026 | 300 S. Main St.  310 | London | KY | 40741 |
+| 502-582-6304 | 601 W. Broadway  Room 630 | Louisville | KY | 40202 |
+| 270-442-4554 | 100 Fountain Ave.  Suite 300 | Paducah | KY | 42001 |
+
+
+### Roger F. Wicker
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MS | sen | Republican | [link](https://www.wicker.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 228-871-7017 | 2909 13th St.  3rd Floor, Suite 303 | Gulfport | MS | 39501 |
+| 662-429-1002 | 321 Losher St.   | Hernando | MS | 38632 |
+| 601-965-4644 | 501 E. Court St.  Suite 3-500 | Jackson | MS | 39201 |
+| 662-844-5010 | 330 W. Jefferson St.  Suite B | Tupelo | MS | 38804 |
 
 
 ### Lamar Alexander
 
-| state | type | party |
-|:----- |:---- |:----- |
-| TN | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| TN | sen | Republican | [link](https://www.alexander.senate.gov/public) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -49,11 +78,41 @@
 | 615-736-5129 | 3322 W. End Ave.  #120 | Nashville | TN | 37203 |
 
 
+### Angus S. King, Jr.
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ME | sen | Independent | [link](https://www.king.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 207-622-8292 | 4 Gabriel Dr.  Suite 3 | Augusta | ME | 04330 |
+| 207-945-8000 | 202 Harlow St.  Suite 20350 | Bangor | ME | 04401 |
+| 207-764-5124 | 169 Academy St.  Suite A | Presque Isle | ME | 04769 |
+| 207-883-1588 | 383 Route 1  Suite 1C | Scarborough | ME | 04074 |
+
+
+### Ted Cruz
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| TX | sen | Republican | [link](https://www.cruz.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 512-916-5834 | 300 E 8th  Suite 961 | Austin | TX | 78701 |
+| 214-599-8749 | 3626 N. Hall St. Lee Park Tower II Suite 410 | Dallas | TX | 75219 |
+| 713-718-3057 | 808 Travis St.  Suite 1420 | Houston | TX | 77002 |
+| 956-686-7339 | 200 S. 10th St.  Suite 1603 | McAllen | TX | 78501 |
+| 210-340-2885 | 9901 Ih-10w  Suite 950 | San Antonio | TX | 78230 |
+| 903-593-5130 | 305 S. Broadway  Suite 501 | Tyler | TX | 75702 |
+
+
 ### Patrick J. Leahy
 
-| state | type | party |
-|:----- |:---- |:----- |
-| VT | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| VT | sen | Democrat | [link](https://www.leahy.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -61,25 +120,11 @@
 | 802-229-0569 | 87 State St.  Room 338 | Montpelier | VT | 05602 |
 
 
-### Roger F. Wicker
-
-| state | type | party |
-|:----- |:---- |:----- |
-| MS | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 228-871-7017 | 2909 13th St.  3rd Floor, Suite 303 | Gulfport | MS | 39501 |
-| 662-429-1002 | 321 Losher St.   | Hernando | MS | 38632 |
-| 601-965-4644 | 501 E. Court St.  Suite 3-500 | Jackson | MS | 39201 |
-| 662-844-5010 | 330 W. Jefferson St.  Suite B | Tupelo | MS | 38804 |
-
-
 ### Pat Roberts
 
-| state | type | party |
-|:----- |:---- |:----- |
-| KS | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| KS | sen | Republican | [link](https://www.roberts.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -89,11 +134,40 @@
 | 316-263-0416 | 125 N. Market St.  Suite 1120 | Wichita | KS | 67202 |
 
 
+### Tom Udall
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NM | sen | Democrat | [link](https://www.tomudall.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 505-346-6791 | 400 Gold Ave.  Suite 300 | Albuquerque | NM | 87102 |
+| 575-234-0366 | 102 W. Hagerman St.  Suite A | Carlsbad | NM | 88220 |
+| 575-526-5475 | 201 N. Church St.  Suite 201B | Las Cruces | NM | 88001 |
+| 575-356-6811 | 100 South Avenue A  Suite 113 | Portales | NM | 88130 |
+| 505-988-6511 | 120 S. Federal Pl.  Suite 302 | Santa Fe | NM | 87501 |
+
+
+### Shelley Moore Capito
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| WV | sen | Republican | [link](https://www.capito.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 304-347-5372 | 220 N. Kanawha St.  1 | Beckley | WV | 25801 |
+| 304-347-5372 | 500 Virgina Street East  Suite 950 | Charleston | WV | 25301 |
+| 304-262-9285 | 300 Foxcroft Ave.  Suite 202A | Martinsburg | WV | 25401 |
+| 304-292-2310 | 48 Donley St.  Suite 504 | Morgantown | WV | 26501 |
+
+
 ### Catherine Cortez Masto
 
-| state | type | party |
-|:----- |:---- |:----- |
-| NV | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NV | sen | Democrat | [link](https://www.cortezmasto.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -101,24 +175,11 @@
 | 775-686-5750 | 400 South Virginia Street Courthouse and Federal Building Suite 902 | Reno | NV | 89501 |
 
 
-### Thad Cochran
-
-| state | type | party |
-|:----- |:---- |:----- |
-| MS | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 228-867-9710 | 2012 15th St.  Suite 451 | Gulfport | MS | 39501 |
-| 601-965-4459 | 190 E. Capitol St.  Suite 550 | Jackson | MS | 39201 |
-| 662-236-1018 | 911 East Jackson Avenue U.S. Federal Courthouse Suite 249 | Oxford | MS | 38655 |
-
-
 ### Amy Klobuchar
 
-| state | type | party |
-|:----- |:---- |:----- |
-| MN | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MN | sen | Democrat | [link](https://www.klobuchar.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -128,11 +189,70 @@
 | 218-741-9690 | 820 9th Street North Olcott Plaza Room 105 | Virginia | MN | 55792 |
 
 
+### Richard C. Shelby
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| AL | sen | Republican | [link](https://www.shelby.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 205-731-1384 | 1800 5th Avenue North Federal Building  | Birmingham | AL | 35203 |
+| 256-772-0460 | 1000 Glenn Hearn Blvd.  #20127 | Huntsville | AL | 35824 |
+| 251-694-4164 | 113 St Joseph St. U.S. Federal Courthouse 445 | Mobile | AL | 36602 |
+| 334-223-7303 | 15 Lee St. FMJ Federal Courthouse Suite 208 | Montgomery | AL | 36104 |
+| 205-759-5047 | 2005 University Blvd.  Suite 2100 | Tuscaloosa | AL | 35401 |
+
+
+### Mark R. Warner
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| VA | sen | Democrat | [link](https://www.warner.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 276-628-8158 | 180 W. Main St.  Room 235 | Abingdon | VA | 24210 |
+| 757-441-3079 | 101 W. Main St.  Suite 7771 | Norfolk | VA | 23510 |
+| 804-775-2314 | 919 E. Main St.  Suite 630 | Richmond | VA | 23219 |
+| 540-857-2676 | 110 Kirk Ave.   | Roanoke | VA | 24011 |
+| 703-442-0670 | 8000 Towers Crescent Dr.  Suite 200 | Vienna | VA | 22182 |
+
+
+### Roy Blunt
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MO | sen | Republican | [link](https://www.blunt.senate.gov/public) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 573-334-7044 | 2502 Tanner Dr.  Suite 208 | Cape Girardeau | MO | 63703 |
+| 314-725-4484 | 7700 Bonhomme  Suite 315 | Clayton | MO | 63105 |
+| 573-442-8151 | 1001 Cherry St.  Suite 104 | Columbia | MO | 65201 |
+| 816-471-7141 | 1000 Walnut St.  Suite 1560 | Kansas City | MO | 64106 |
+| 417-877-7814 | 2740 E. Sunshine   | Springfield | MO | 65804 |
+
+
+### Richard J. Durbin
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| IL | sen | Democrat | [link](https://www.durbin.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 618-351-1122 | 250 W. Cherry St.  Suite 115-D | Carbondale | IL | 62901 |
+| 312-353-4952 | 230 S. Dearborn St.  Suite 3892 | Chicago | IL | 60604 |
+| 309-786-5173 | 1504 Third Ave.  Suite 227 | Rock Island | IL | 61201 |
+| 217-492-4062 | 525 S. 8th St.   | Springfield | IL | 62703 |
+
+
 ### Charles E. Schumer
 
-| state | type | party |
-|:----- |:---- |:----- |
-| NY | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NY | sen | Democrat | [link](https://www.schumer.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -146,131 +266,11 @@
 | 315-423-5471 | 100 S. Clinton St.  Room 841 | Syracuse | NY | 13261 |
 
 
-### Richard C. Shelby
-
-| state | type | party |
-|:----- |:---- |:----- |
-| AL | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 205-731-1384 | 1800 5th Avenue North Federal Building  | Birmingham | AL | 35203 |
-| 256-772-0460 | 1000 Glenn Hearn Blvd.  #20127 | Huntsville | AL | 35824 |
-| 251-694-4164 | 113 St Joseph St. U.S. Federal Courthouse 445 | Mobile | AL | 36602 |
-| 334-223-7303 | 15 Lee St. FMJ Federal Courthouse Suite 208 | Montgomery | AL | 36104 |
-| 205-759-5047 | 2005 University Blvd.  Suite 2100 | Tuscaloosa | AL | 35401 |
-
-
-### Richard J. Durbin
-
-| state | type | party |
-|:----- |:---- |:----- |
-| IL | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 618-351-1122 | 250 W. Cherry St.  Suite 115-D | Carbondale | IL | 62901 |
-| 312-353-4952 | 230 S. Dearborn St.  Suite 3892 | Chicago | IL | 60604 |
-| 309-786-5173 | 1504 Third Ave.  Suite 227 | Rock Island | IL | 61201 |
-| 217-492-4062 | 525 S. 8th St.   | Springfield | IL | 62703 |
-
-
-### Mark R. Warner
-
-| state | type | party |
-|:----- |:---- |:----- |
-| VA | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 276-628-8158 | 180 W. Main St.  Room 235 | Abingdon | VA | 24210 |
-| 757-441-3079 | 101 W. Main St.  Suite 7771 | Norfolk | VA | 23510 |
-| 804-775-2314 | 919 E. Main St.  Suite 630 | Richmond | VA | 23219 |
-| 540-857-2676 | 110 Kirk Ave.   | Roanoke | VA | 24011 |
-| 703-442-0670 | 8000 Towers Crescent Dr.  Suite 200 | Vienna | VA | 22182 |
-
-
-### Ted Cruz
-
-| state | type | party |
-|:----- |:---- |:----- |
-| TX | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 512-916-5834 | 300 E 8th  Suite 961 | Austin | TX | 78701 |
-| 214-599-8749 | 3626 N. Hall St. Lee Park Tower II Suite 410 | Dallas | TX | 75219 |
-| 713-718-3057 | 808 Travis St.  Suite 1420 | Houston | TX | 77002 |
-| 956-686-7339 | 200 S. 10th St.  Suite 1603 | McAllen | TX | 78501 |
-| 210-340-2885 | 9901 Ih-10w  Suite 950 | San Antonio | TX | 78230 |
-| 903-593-5130 | 305 S. Broadway  Suite 501 | Tyler | TX | 75702 |
-
-
-### Tom Udall
-
-| state | type | party |
-|:----- |:---- |:----- |
-| NM | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 505-346-6791 | 400 Gold Ave.  Suite 300 | Albuquerque | NM | 87102 |
-| 575-234-0366 | 102 W. Hagerman St.  Suite A | Carlsbad | NM | 88220 |
-| 575-526-5475 | 201 N. Church St.  Suite 201B | Las Cruces | NM | 88001 |
-| 575-356-6811 | 100 South Avenue A  Suite 113 | Portales | NM | 88130 |
-| 505-988-6511 | 120 S. Federal Pl.  Suite 302 | Santa Fe | NM | 87501 |
-
-
-### Roy Blunt
-
-| state | type | party |
-|:----- |:---- |:----- |
-| MO | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 573-334-7044 | 2502 Tanner Dr.  Suite 208 | Cape Girardeau | MO | 63703 |
-| 314-725-4484 | 7700 Bonhomme  Suite 315 | Clayton | MO | 63105 |
-| 573-442-8151 | 1001 Cherry St.  Suite 104 | Columbia | MO | 65201 |
-| 816-471-7141 | 1000 Walnut St.  Suite 1560 | Kansas City | MO | 64106 |
-| 417-877-7814 | 2740 E. Sunshine   | Springfield | MO | 65804 |
-
-
-### Shelley Moore Capito
-
-| state | type | party |
-|:----- |:---- |:----- |
-| WV | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 304-347-5372 | 220 N. Kanawha St.  1 | Beckley | WV | 25801 |
-| 304-347-5372 | 500 Virgina Street East  Suite 950 | Charleston | WV | 25301 |
-| 304-262-9285 | 300 Foxcroft Ave.  Suite 202A | Martinsburg | WV | 25401 |
-| 304-292-2310 | 48 Donley St.  Suite 504 | Morgantown | WV | 26501 |
-
-
-### Mitch McConnell
-
-| state | type | party |
-|:----- |:---- |:----- |
-| KY | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 270-781-1673 | 241 E. Main St. Federal Building Rm. 102 | Bowling Green | KY | 42101 |
-| 859-578-0188 | 1885 Dixie Hwy.  Suite 345 | Fort Wright | KY | 41011 |
-| 859-224-8286 | 771 Corporate Dr.  Suite 108 | Lexington | KY | 40503 |
-| 606-864-2026 | 300 S. Main St.  310 | London | KY | 40741 |
-| 502-582-6304 | 601 W. Broadway  Room 630 | Louisville | KY | 40202 |
-| 270-442-4554 | 100 Fountain Ave.  Suite 300 | Paducah | KY | 42001 |
-
-
 ### Deb Fischer
 
-| state | type | party |
-|:----- |:---- |:----- |
-| NE | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NE | sen | Republican | [link](https://www.fischer.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |

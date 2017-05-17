@@ -5,26 +5,95 @@
 
 
 
-### Heidi Heitkamp
+### Ron Johnson
 
-| state | type | party |
-|:----- |:---- |:----- |
-| ND | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| WI | sen | Republican | [link](https://www.ronjohnson.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 701-258-4648 | 220 E. Rosser Ave. 228 Federal Building  | Bismarck | ND | 58501 |
-| 701-225-0974 | 40 1st Ave. West  Suite 202 | Dickinson | ND | 58601 |
-| 701-232-8030 | 657 Second Avenue North 306 Federal Building  | Fargo | ND | 58102 |
-| 701-775-9601 | 33 S. Third St.  Suite B | Grand Forks | ND | 58201 |
-| 701-852-0703 | 100 First St. 105 Federal Building  | Minot | ND | 58701 |
+| 414-276-7282 | 517 E. Wisconsin Ave.  Suite 408 | Milwaukee | WI | 53202 |
+| 920-230-7250 | 219 Washington Ave.  Suite 100 | Oshkosh | WI | 54901 |
+
+
+### John Hoeven
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ND | sen | Republican | [link](https://www.hoeven.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 701-250-4618 | 220 E. Rosser Ave. U.S. Federal Building Room 312 | Bismarck | ND | 58501 |
+| 701-239-5389 | 1802 32nd Ave. South  Room B | Fargo | ND | 58103 |
+| 701-746-8972 | 102 N. Fourth St. Federal Building Rm 108 | Grand Forks | ND | 58203 |
+| 701-838-1361 | 100 1st St.  Suite 107 | Minot | ND | 58701 |
+| 701-580-4535 |    | Williston | ND |  |
+
+
+### Claire McCaskill
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MO | sen | Democrat | [link](https://www.mccaskill.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 573-651-0964 | 555 Independence St.  Room 1600 | Cape Girardeau | MO | 63703 |
+| 573-442-7130 | 28 N. 8th St.  Ste. 500 | Columbia | MO | 65201 |
+| 816-421-1639 | 4141 Pennsylvania Ave.  Ste. 101 | Kansas City | MO | 64111 |
+| 417-868-8745 | 324 Park Central West  Suite 101 | Springfield | MO | 65806 |
+| 314-367-1364 | 5850 Delmar Blvd.  Ste. A | St. Louis | MO | 63112 |
+
+
+### Rob Portman
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| OH | sen | Republican | [link](https://www.portman.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 513-684-3265 | 312 Walnut St.  Suite 3075 | Cincinnati | OH | 45202 |
+| 216-522-7095 | 1240 E. 9th St.  Room 3061 | Cleveland | OH | 44199 |
+| 614-469-6774 | 37 W. Broad St.  Room 300 | Columbus | OH | 43215 |
+| 419-259-3895 | 420 Madison Ave.  Room 1210 | Toledo | OH | 43604 |
+
+
+### Kamala D. Harris
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| CA | sen | Democrat | [link](https://www.harris.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 916-448-2787 | 501 I Street  Suite 7-600 | Sacramento | CA | 95814 |
+| 916-448-2787 | 2500 Tulare Street  Suite 5290 | Fresno | CA | 93721 |
+| 213-894-5000 | 312 N. Spring St.  Suite 1748 | Los Angeles | CA | 90012 |
+| 213-894-5000 | 50 United Nations Plaza  Suite 5584 | San Francisco | CA | 94102 |
+| 619-239-3884 | 600 B Street  Suite 2240 | San Diego | CA | 92101 |
+
+
+### Thomas R. Carper
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| DE | sen | Democrat | [link](https://www.carper.senate.gov/public) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 302-674-3308 | 500 W. Loockerman St.  Suite 470 | Dover | DE | 19904 |
+| 302-856-7690 | 12 The Circle   | Georgetown | DE | 19947 |
+| 302-573-6291 | 301 N. Walnut St.  Suite 102L-1 | Wilmington | DE | 19801-3974 |
 
 
 ### Steve Daines
 
-| state | type | party |
-|:----- |:---- |:----- |
-| MT | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MT | sen | Republican | [link](https://www.daines.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -38,11 +107,35 @@
 | 406-482-9010 | 609 S. Central Ave. (Central Plaza Building) Suite #4 | Sidney | MT | 59270 |
 
 
+### James Lankford
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| OK | sen | Republican | [link](https://www.lankford.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 405-231-4941 | 1015 N. Broadway Ave.  Suite 310 | Oklahoma City | OK | 73102 |
+| 918-581-7651 | 5810 E. Skelly Dr. The Remington Tower Suite 1000 | Tulsa | OK | 74135 |
+
+
+### Margaret Wood Hassan
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| NH | sen | Democrat | [link](https://www.hassan.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 603-622-2204 | 1200 Elm Street  Suite 2 | Manchester | NH | 03101 |
+| 603-433-4445 | 14 Manchester Square  Suite 140 | Portsmouth | NH | 03801 |
+
+
 ### Jon Tester
 
-| state | type | party |
-|:----- |:---- |:----- |
-| MT | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MT | sen | Democrat | [link](https://www.tester.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -56,26 +149,42 @@
 | 406-728-3003 | 130 W. Front St.   | Missoula | MT | 59802 |
 
 
-### Kamala D. Harris
+### Heidi Heitkamp
 
-| state | type | party |
-|:----- |:---- |:----- |
-| CA | sen | Democrat |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| ND | sen | Democrat | [link](https://www.heitkamp.senate.gov/public) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 916-448-2787 | 501 I Street  Suite 7-600 | Sacramento | CA | 95814 |
-| 916-448-2787 | 2500 Tulare Street  Suite 5290 | Fresno | CA | 93721 |
-| 213-894-5000 | 312 N. Spring St.  Suite 1748 | Los Angeles | CA | 90012 |
-| 213-894-5000 | 50 United Nations Plaza  Suite 5584 | San Francisco | CA | 94102 |
-| 619-239-3884 | 600 B Street  Suite 2240 | San Diego | CA | 92101 |
+| 701-258-4648 | 220 E. Rosser Ave. 228 Federal Building  | Bismarck | ND | 58501 |
+| 701-225-0974 | 40 1st Ave. West  Suite 202 | Dickinson | ND | 58601 |
+| 701-232-8030 | 657 Second Avenue North 306 Federal Building  | Fargo | ND | 58102 |
+| 701-775-9601 | 33 S. Third St.  Suite B | Grand Forks | ND | 58201 |
+| 701-852-0703 | 100 First St. 105 Federal Building  | Minot | ND | 58701 |
+
+
+### Rand Paul
+
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| KY | sen | Republican | [link](https://www.paul.senate.gov) |
+
+| phone | address | city | state | zip |
+|:----- |:------- |:---- |:----- |:--- |
+| 270-782-8303 | 1029 State St.   | Bowling Green | KY | 42101 |
+| 859-426-0165 | 541 Buttermilk Park.  Ste 102 | Crescent Springs | KY | 41017 |
+| 270-885-1212 | 1100 S. Main St.  Ste.12 | Hopkinsville | KY | 42240 |
+| 859-219-2239 | 771 Corporate Dr.  Ste 105 | Lexington | KY | 40503 |
+| 502-582-5341 | 600 Dr Mlk Jr Pl.  Room 1072B | Louisville | KY | 40202 |
+| 270-689-9085 | 423 Frederica St.  Ste 305 | Owensboro | KY | 42301 |
 
 
 ### John McCain
 
-| state | type | party |
-|:----- |:---- |:----- |
-| AZ | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| AZ | sen | Republican | [link](https://www.mccain.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -84,121 +193,11 @@
 | 520-670-6334 | 407 W. Congress St.  Suite 103 | Tucson | AZ | 85701 |
 
 
-### John Hoeven
-
-| state | type | party |
-|:----- |:---- |:----- |
-| ND | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 701-250-4618 | 220 E. Rosser Ave. U.S. Federal Building Room 312 | Bismarck | ND | 58501 |
-| 701-239-5389 | 1802 32nd Ave. South  Room B | Fargo | ND | 58103 |
-| 701-746-8972 | 102 N. Fourth St. Federal Building Rm 108 | Grand Forks | ND | 58203 |
-| 701-838-1361 | 100 1st St.  Suite 107 | Minot | ND | 58701 |
-| 701-580-4535 |    | Williston | ND |  |
-
-
-### Ron Johnson
-
-| state | type | party |
-|:----- |:---- |:----- |
-| WI | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 414-276-7282 | 517 E. Wisconsin Ave.  Suite 408 | Milwaukee | WI | 53202 |
-| 920-230-7250 | 219 Washington Ave.  Suite 100 | Oshkosh | WI | 54901 |
-
-
-### Rob Portman
-
-| state | type | party |
-|:----- |:---- |:----- |
-| OH | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 513-684-3265 | 312 Walnut St.  Suite 3075 | Cincinnati | OH | 45202 |
-| 216-522-7095 | 1240 E. 9th St.  Room 3061 | Cleveland | OH | 44199 |
-| 614-469-6774 | 37 W. Broad St.  Room 300 | Columbus | OH | 43215 |
-| 419-259-3895 | 420 Madison Ave.  Room 1210 | Toledo | OH | 43604 |
-
-
-### Claire McCaskill
-
-| state | type | party |
-|:----- |:---- |:----- |
-| MO | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 573-651-0964 | 555 Independence St.  Room 1600 | Cape Girardeau | MO | 63703 |
-| 573-442-7130 | 28 N. 8th St.  Ste. 500 | Columbia | MO | 65201 |
-| 816-421-1639 | 4141 Pennsylvania Ave.  Ste. 101 | Kansas City | MO | 64111 |
-| 417-868-8745 | 324 Park Central West  Suite 101 | Springfield | MO | 65806 |
-| 314-367-1364 | 5850 Delmar Blvd.  Ste. A | St. Louis | MO | 63112 |
-
-
-### Margaret Wood Hassan
-
-| state | type | party |
-|:----- |:---- |:----- |
-| NH | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 603-622-2204 | 1200 Elm Street  Suite 2 | Manchester | NH | 03101 |
-| 603-433-4445 | 14 Manchester Square  Suite 140 | Portsmouth | NH | 03801 |
-
-
-### James Lankford
-
-| state | type | party |
-|:----- |:---- |:----- |
-| OK | sen | Republican |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 405-231-4941 | 1015 N. Broadway Ave.  Suite 310 | Oklahoma City | OK | 73102 |
-| 918-581-7651 | 5810 E. Skelly Dr. The Remington Tower Suite 1000 | Tulsa | OK | 74135 |
-
-
-### Thomas R. Carper
-
-| state | type | party |
-|:----- |:---- |:----- |
-| DE | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 302-674-3308 | 500 W. Loockerman St.  Suite 470 | Dover | DE | 19904 |
-| 302-856-7690 | 12 The Circle   | Georgetown | DE | 19947 |
-| 302-573-6291 | 301 N. Walnut St.  Suite 102L-1 | Wilmington | DE | 19801-3974 |
-
-
-### Gary C. Peters
-
-| state | type | party |
-|:----- |:---- |:----- |
-| MI | sen | Democrat |
-
-| phone | address | city | state | zip |
-|:----- |:------- |:---- |:----- |:--- |
-| 313-226-6020 | 477 Michigan Ave. Patrick V. McNamara Federal Building Suite 1860 | Detroit | MI | 48226 |
-| 616-233-9150 | 110 Michigan St. Gerald R. Ford Federal Building Suite 720 | Grand Rapids | MI | 49503 |
-| 517-377-1508 | 124 W. Allegan St.  Suite 1810 | Lansing | MI | 48933 |
-| 906-226-4554 | 857 W. Washington St.  Suite 308 | Marquette | MI | 49855 |
-| 248-608-8040 | 407 6th St.  Suite C | Rochester | MI | 48307 |
-| 989-754-0112 | 515 N. Washington Ave.  Suite 401 | Saginaw | MI | 48607 |
-| 231-947-7773 | 818 Red Dr.  Suite 40 | Traverse City | MI | 49684 |
-
-
 ### Michael B. Enzi
 
-| state | type | party |
-|:----- |:---- |:----- |
-| WY | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| WY | sen | Republican | [link](https://www.enzi.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
@@ -209,19 +208,20 @@
 | 307-739-9507 | 1110 Maple Way P.O. Box 12470 Suite G | Jackson | WY | 83002 |
 
 
-### Rand Paul
+### Gary C. Peters
 
-| state | type | party |
-|:----- |:---- |:----- |
-| KY | sen | Republican |
+| state | type | party | url |
+|:----- |:---- |:----- |:--- |
+| MI | sen | Democrat | [link](https://www.peters.senate.gov) |
 
 | phone | address | city | state | zip |
 |:----- |:------- |:---- |:----- |:--- |
-| 270-782-8303 | 1029 State St.   | Bowling Green | KY | 42101 |
-| 859-426-0165 | 541 Buttermilk Park.  Ste 102 | Crescent Springs | KY | 41017 |
-| 270-885-1212 | 1100 S. Main St.  Ste.12 | Hopkinsville | KY | 42240 |
-| 859-219-2239 | 771 Corporate Dr.  Ste 105 | Lexington | KY | 40503 |
-| 502-582-5341 | 600 Dr Mlk Jr Pl.  Room 1072B | Louisville | KY | 40202 |
-| 270-689-9085 | 423 Frederica St.  Ste 305 | Owensboro | KY | 42301 |
+| 313-226-6020 | 477 Michigan Ave. Patrick V. McNamara Federal Building Suite 1860 | Detroit | MI | 48226 |
+| 616-233-9150 | 110 Michigan St. Gerald R. Ford Federal Building Suite 720 | Grand Rapids | MI | 49503 |
+| 517-377-1508 | 124 W. Allegan St.  Suite 1810 | Lansing | MI | 48933 |
+| 906-226-4554 | 857 W. Washington St.  Suite 308 | Marquette | MI | 49855 |
+| 248-608-8040 | 407 6th St.  Suite C | Rochester | MI | 48307 |
+| 989-754-0112 | 515 N. Washington Ave.  Suite 401 | Saginaw | MI | 48607 |
+| 231-947-7773 | 818 Red Dr.  Suite 40 | Traverse City | MI | 49684 |
 
 
