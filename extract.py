@@ -15,7 +15,7 @@ import markupsafe
 import markdown
 import pickle
 from staticjinja import make_site
-from markdown_replace import ReplaceExtension
+import markdown_replace
 from committee import Committee
 
 
